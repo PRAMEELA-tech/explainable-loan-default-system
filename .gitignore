@@ -1,0 +1,36 @@
+# ===============================
+# IDE / Cloud / Editor folders
+# ===============================
+.cursor-server
+.vscode-server
+.windsurf-server
+.lightning_studio/
+.streamlit/
+.idea/
+.vscode/
+
+# ===============================
+# Dataset files
+# ===============================
+data/home_credit/application_train.csv
+data/home_credit/application_train_working.csv
+data/home_credit/X_clean.npy
+data/home_credit/y_clean.npy
+
+# ===============================
+# Kaggle API key
+# ===============================
+kaggle/
+kaggle.json
+
+# ===============================
+# Python cache
+# ===============================
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# ===============================
+# OS
+# ===============================
+.DS_Store

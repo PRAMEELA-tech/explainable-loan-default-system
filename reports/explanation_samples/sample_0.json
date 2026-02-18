@@ -1,0 +1,58 @@
+{
+    "base_value": -0.25437248369875404,
+    "prediction_probability": 0.9571293077324403,
+    "top_risk_increasing_features": [
+        {
+            "feature": "FLAG_OWN_CAR_Y",
+            "value": -0.4685730002848026,
+            "shap_contribution": 1.082571818989037
+        },
+        {
+            "feature": "NAME_TYPE_SUITE_Other_A",
+            "value": 0.9678762111756462,
+            "shap_contribution": 1.0193213513145305
+        },
+        {
+            "feature": "ORGANIZATION_TYPE_Trade: type 4",
+            "value": -0.4686349318583589,
+            "shap_contribution": 0.9892424179388329
+        },
+        {
+            "feature": "EXT_SOURCE_3",
+            "value": -2.153650937474764,
+            "shap_contribution": 0.9823788594127397
+        },
+        {
+            "feature": "NAME_INCOME_TYPE_Commercial associate",
+            "value": 0.6388078148814145,
+            "shap_contribution": 0.9011952862669431
+        }
+    ],
+    "top_risk_reducing_features": [
+        {
+            "feature": "DAYS_REGISTRATION",
+            "value": -0.45621519025406765,
+            "shap_contribution": -1.3836278822100148
+        },
+        {
+            "feature": "FLAG_DOCUMENT_16",
+            "value": 0.45621519025406765,
+            "shap_contribution": -1.3836278822100028
+        },
+        {
+            "feature": "NAME_TYPE_SUITE_Other_B",
+            "value": -0.5672623393744466,
+            "shap_contribution": -0.7355434998739777
+        },
+        {
+            "feature": "CODE_GENDER_M",
+            "value": -0.5509974830450608,
+            "shap_contribution": -0.5354626363464985
+        },
+        {
+            "feature": "FLAG_DOCUMENT_14",
+            "value": -0.42823525897534104,
+            "shap_contribution": -0.31836468748712776
+        }
+    ]
+}
