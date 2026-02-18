@@ -54,7 +54,7 @@ README.md
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/PRAMEELA-tech/explainable-loan-default-system.git
 cd explainable-loan-default-system
 ```
 
@@ -167,6 +167,6 @@ Returns:
 
 ## Author
 
-Nikitha Nikki  
+Ginni Prameela 
 B.Tech CSE  
 Explainable AI Project
